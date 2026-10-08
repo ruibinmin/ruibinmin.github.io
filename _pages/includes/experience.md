@@ -27,7 +27,7 @@
         <span>Jul 2025 – Dec 2025</span>
       </div>
       <p class="role-line">Research Intern · AI for Biology</p>
-      <p>Supervised by Prof. <a href="https://ai.hku.hk/index.php/people/academic-staff/zqwu">Zhenqin Wu</a>.</p>
+      <p>Supervised by Prof. <a href="https://ai.hku.hk/index.php/people/academic-staff/zqwu">Michael</a>.</p>
     </div>
   </div>
 </div>

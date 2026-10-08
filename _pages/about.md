@@ -37,9 +37,5 @@ redirect_from:
 {% include_relative includes/honers.md %}
 <br>
 
-<span class='anchor' id='-visitor-insights'></span>
-{% include_relative includes/visitor_insights.md %}
-<br>
-
 <span class='anchor' id='-contact'></span>
 {% include_relative includes/contact.md %}

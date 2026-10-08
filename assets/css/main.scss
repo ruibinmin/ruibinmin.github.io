@@ -138,6 +138,10 @@ body {
 .page__content h1:first-child { margin-top: 0; }
 
 .author__avatar img {
+  width: 175px;
+  height: 175px;
+  aspect-ratio: 1;
+  object-fit: cover;
   border: 4px solid #fff;
   box-shadow: 0 10px 35px rgba(23, 59, 108, 0.18);
 }
@@ -451,4 +455,11 @@ body {
   .award-grid { grid-template-columns: 1fr; }
   .visitor-grid { grid-template-columns: 1fr; }
   .contact-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 1023px) {
+  .author__avatar img {
+    width: 75px;
+    height: 75px;
+  }
 }

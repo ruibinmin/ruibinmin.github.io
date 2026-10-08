@@ -10,7 +10,6 @@ locale                   : "en-US"
 title                    : "Ruibin Min"
 title_separator          : "-"
 name                     : "Ruibin Min"
-description              : "Ruibin Min is a Computer Science undergraduate at Sun Yat-sen University and an incoming Ph.D. student at HKUST, researching unified multimodal models and world models."
 url                      : "https://uiosn.github.io"
 baseurl                  : ""
 repository               : "UIOSN/UIOSN.github.io"
@@ -27,7 +26,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Ruibin Min"
-  avatar           : "/images/avatar-placeholder.svg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Incoming Ph.D. student at HKUST AMC"
   location         : "Guangzhou / Hong Kong"
   employer         :
