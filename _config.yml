@@ -129,6 +129,12 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # Content fragments are rendered inside the homepage, not as standalone pages.
+  - scope:
+      path: "_pages/includes"
+      type: pages
+    values:
+      sitemap: false
 
 
 # Sass/SCSS

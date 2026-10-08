@@ -1,4 +1,4 @@
-# 👋 About Me
+# Ruibin Min
 
 I am an undergraduate student in Computer Science at Sun Yat-sen University <img src="/images/sysu.png" class="inline-logo" alt="Sun Yat-sen University logo">. I will join the Division of Arts and Machine Creativity at HKUST <img src="/images/hkust.svg" class="inline-logo" alt="HKUST emblem"> as an incoming Ph.D. student in Fall 2027, supervised by Prof. [Harry Yang](https://hyang.org/).
 

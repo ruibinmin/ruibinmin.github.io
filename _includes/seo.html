@@ -74,6 +74,7 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": {{ site.author.name | jsonify }},
+  "alternateName": ["RuibinMin", "UIOSN"],
   "url": {{ seo_url | jsonify }},
   "email": {{ site.author.email | prepend: "mailto:" | jsonify }},
   "sameAs": [
@@ -95,6 +96,16 @@
     "World models",
     "Video generation"
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "alternateName": ["Ruibin Min Academic Homepage", "RuibinMin"],
+  "url": {{ seo_url | jsonify }}
 }
 </script>
 
