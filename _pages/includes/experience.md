@@ -10,8 +10,8 @@
         <strong>ByteDance</strong>
         <span>Sep 2026 – Present</span>
       </div>
-      <p class="role-line">Research Intern</p>
-      <p>Working on video generation.</p>
+      <p class="role-line">Research Intern · Video Generation Post-Training</p>
+      
     </div>
   </div>
 </div>
