@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Ruibin Min"
 title_separator          : "-"
 name                     : "Ruibin Min"
-url                      : "https://uiosn.github.io"
+url                      : "https://ruibinmin.github.io"
 baseurl                  : ""
-repository               : "UIOSN/UIOSN.github.io"
+repository               : "ruibinmin/ruibinmin.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics

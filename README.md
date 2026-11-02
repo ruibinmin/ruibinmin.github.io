@@ -26,7 +26,7 @@ Open `http://127.0.0.1:4000/`.
 
 ## GitHub Pages deployment
 
-Push this repository to `UIOSN/UIOSN.github.io` on the `main` branch. GitHub Pages can build the Jekyll site directly at `https://uiosn.github.io/`.
+Push this repository to `ruibinmin/ruibinmin.github.io` on the `main` branch. GitHub Pages can build the Jekyll site directly at `https://ruibinmin.github.io/`.
 
 ## Credits
 
