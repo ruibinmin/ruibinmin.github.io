@@ -4,6 +4,6 @@ Hi there! I'm an undergraduate student in Computer Science at Sun Yat-sen Univer
 
 I am currently a Research Intern at ByteDance <img src="/images/bytedance.svg" class="inline-logo" alt="ByteDance symbol">, working on video generation. Previously, I conducted AI for Biology research at the HKU School of Computing and Data Science <img src="/images/hku.svg" class="inline-logo" alt="The University of Hong Kong shield"> under the supervision of Prof. [Michael](https://ai.hku.hk/index.php/people/academic-staff/zqwu).
 
-My research interests lie in **multimodal understanding and generation**, particularly in **unified multimodal models (UMMs)** and **world models**.
+My research interests lie in **multimodal understanding and generation**, particularly in **unified multimodal models (UMMs)** and **world models**. Outside of research, I love 🏀 and used to play for the SYSU CSE basketball team. I’m also a big fan of R&B and J-rock music🎸.
 
-I am always happy to have a nice chat - feel free to reach me out!
+I am always happy to have a nice chat — feel free to reach out to me!

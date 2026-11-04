@@ -5,9 +5,9 @@
     <i class="fas fa-envelope" aria-hidden="true"></i>
     <span><small>Email</small>ruibinmin@gmail.com</span>
   </a>
-  <a class="contact-card" href="https://github.com/UIOSN">
+  <a class="contact-card" href="https://github.com/ruibinmin">
     <i class="fab fa-github" aria-hidden="true"></i>
-    <span><small>GitHub</small>github.com/UIOSN</span>
+    <span><small>GitHub</small>github.com/ruibinmin</span>
   </a>
   <div class="contact-card">
     <i class="fab fa-weixin" aria-hidden="true"></i>
