@@ -221,7 +221,14 @@
 </div>
 
 <div class="author__visitor-map">
-  {% if site.clustrmaps.enabled %}
+  {% if site.flagcounter.enabled and site.flagcounter.id %}
+  <a href="https://info.flagcounter.com/{{ site.flagcounter.id | escape }}"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="View visitor map statistics (opens in a new tab)">
+    <img src="https://s05.flagcounter.com/map/{{ site.flagcounter.id | escape }}/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+         alt="Visitor map and pageview count from Flag Counter">
+  </a>
+  {% elsif site.clustrmaps.enabled %}
   <script type="text/javascript"
     id="clstr_globe"
     src="//clustrmaps.com/globe.js?d={{ site.clustrmaps.id }}">

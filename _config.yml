@@ -176,3 +176,8 @@ compress_html:
 clustrmaps:
   enabled: false
   id:
+
+# Visitor Map (Flag Counter)
+flagcounter:
+  enabled: true
+  id: "LAo1"
