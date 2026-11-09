@@ -1,4 +1,4 @@
-# 🎧 Beloved Music
+# 🎧 Beloved Albums
 
 {% if site.data.albums.size > 0 %}
 <div class="album-grid">

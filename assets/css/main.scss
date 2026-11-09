@@ -446,14 +446,15 @@ body {
   line-height: 1.55;
 }
 
-.author__visitor-map {
-  margin-top: 1.25rem;
+.page__visitor-map {
+  margin-top: 1.5rem;
 }
 
-.author__visitor-map img {
+.page__visitor-map img {
   display: block;
   max-width: 100%;
   height: auto;
+  margin: 0 auto;
   border: 0;
   border-radius: 6px;
 }

@@ -1,0 +1,12 @@
+{% if site.flagcounter.enabled and site.flagcounter.id %}
+<span class="anchor" id="visitor-map"></span>
+<h1>🌍 Visitor Map</h1>
+<div class="page__visitor-map">
+  <a href="https://info.flagcounter.com/{{ site.flagcounter.id | escape }}"
+     target="_blank" rel="noopener noreferrer"
+     aria-label="View visitor map statistics (opens in a new tab)">
+    <img src="https://s05.flagcounter.com/map/{{ site.flagcounter.id | escape }}/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+         alt="Visitor map and pageview count from Flag Counter">
+  </a>
+</div>
+{% endif %}

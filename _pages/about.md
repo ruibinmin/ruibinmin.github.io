@@ -43,3 +43,5 @@ redirect_from:
 
 <span class='anchor' id='-music'></span>
 {% include_relative includes/music.md %}
+
+{% include visitor-map.html %}
